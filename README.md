@@ -21,12 +21,12 @@ The objective of this project is to build an interactive Power BI dashboard that
 - Data Transformation using Power Query
 - Measures & Calculated Columns in DAX
 
-###📁 Dataset Info
+### 📁 Dataset Info
 - The dataset includes fields like:
 - State, Order Date, Category, Sub-Category, Payment Mode, Customer Name
 - Metrics: Sales Amount, Quantity, Profit, Order Value.
 
-###📸 Dashboard Snapshot
+### 📸 Dashboard Snapshot
 <img width="1270" height="716" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/f283f262-2350-4b2e-be91-d6600aa7bd7c" />
 
 

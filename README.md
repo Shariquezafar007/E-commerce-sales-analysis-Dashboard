@@ -2,7 +2,7 @@
 ## 📝 Project Objective
 The objective of this project is to build an interactive Power BI dashboard that provides detailed insights into e-commerce sales performance across various dimensions. This dashboard allows users to analyze and monitor sales data efficiently by visualizing key metrics and trends.
 
-🎯 Key Goals
+###🎯 Key Goals
 - Track total Sales Amount, Quantity Sold, Profit, and Average Order Value.
 - Analyze sales performance by State, Customer Name, and Sub-Category.
 - Understand product demand across Categories (Clothing, Electronics, Furniture).
@@ -16,17 +16,17 @@ The objective of this project is to build an interactive Power BI dashboard that
 - Line/Bar Chart: Profit over Order Dates
 - Horizontal Bar Charts: Sales by Customer and Profit by Sub-Category
 
-## 🧰 Tools & Technologies
+### 🧰 Tools & Technologies
 - Power BI Desktop
 - Data Transformation using Power Query
 - Measures & Calculated Columns in DAX
 
-📁 Dataset Info
+###📁 Dataset Info
 - The dataset includes fields like:
 - State, Order Date, Category, Sub-Category, Payment Mode, Customer Name
 - Metrics: Sales Amount, Quantity, Profit, Order Value.
 
-📸 Dashboard Snapshot
+###📸 Dashboard Snapshot
 
 
 

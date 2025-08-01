@@ -11,19 +11,19 @@ The objective of this project is to build an interactive Power BI dashboard that
 - Enable filtering by State and Quarter for flexible reporting.
 
 📌 Features Highlighted
-• Bar Chart: Sales by State
-• Donut Charts: Quantity by Category & Payment Mode
-• Line/Bar Chart: Profit over Order Dates
-• Horizontal Bar Charts: Sales by Customer and Profit by Sub-Category
+- Bar Chart: Sales by State
+- Donut Charts: Quantity by Category & Payment Mode
+- Line/Bar Chart: Profit over Order Dates
+- Horizontal Bar Charts: Sales by Customer and Profit by Sub-Category
 
 🧰 Tools & Technologies
-• Power BI Desktop
-• Data Transformation using Power Query
-• Measures & Calculated Columns in DAX
+- Power BI Desktop
+- Data Transformation using Power Query
+- Measures & Calculated Columns in DAX
 
 📁 Dataset Info
-• The dataset includes fields like:
-• State, Order Date, Category, Sub-Category, Payment Mode, Customer Name
-• Metrics: Sales Amount, Quantity, Profit, Order Value.
+- The dataset includes fields like:
+- State, Order Date, Category, Sub-Category, Payment Mode, Customer Name
+- Metrics: Sales Amount, Quantity, Profit, Order Value.
 
 

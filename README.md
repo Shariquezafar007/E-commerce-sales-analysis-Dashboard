@@ -10,13 +10,13 @@ The objective of this project is to build an interactive Power BI dashboard that
 - Monitor Monthly Profit Trends to identify profitable and loss-making months.
 - Enable filtering by State and Quarter for flexible reporting.
 
-📌 Features Highlighted
+### 📌 Features Highlighted
 - Bar Chart: Sales by State
 - Donut Charts: Quantity by Category & Payment Mode
 - Line/Bar Chart: Profit over Order Dates
 - Horizontal Bar Charts: Sales by Customer and Profit by Sub-Category
 
-🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 - Power BI Desktop
 - Data Transformation using Power Query
 - Measures & Calculated Columns in DAX
@@ -25,5 +25,9 @@ The objective of this project is to build an interactive Power BI dashboard that
 - The dataset includes fields like:
 - State, Order Date, Category, Sub-Category, Payment Mode, Customer Name
 - Metrics: Sales Amount, Quantity, Profit, Order Value.
+
+📸 Dashboard Snapshot
+
+
 
 

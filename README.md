@@ -1,6 +1,7 @@
 # E-commerce-sales-analysis-Dashboard creation Using by Power bi
 ## 📝 Project Objective
-The objective of this project is to build an interactive Power BI dashboard that provides detailed insights into e-commerce sales performance across various dimensions. This dashboard allows users to analyze and monitor sales data efficiently by visualizing key metrics and trends.
+The objective of this project is to build an interactive Power BI dashboard that provides detailed insights into the
+e-commerce sales performance across various dimensions. This dashboard allows users to analyze and monitor sales data efficiently by visualizing key metrics and trends.
 
 ###🎯 Key Goals
 - Track total Sales Amount, Quantity Sold, Profit, and Average Order Value.
@@ -32,7 +33,7 @@ You can directly access the dataset files here:
 - [Details.csv](https://raw.githubusercontent.com/Farisraihan777/E-commerce-sales-analysis-Dashboard/main/Details.csv)
 
   ## 🔗 Portfolio & Contact
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/faris-raihan-70b916329/)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/faris-raihan70b916320/)
 - 📧 [Email:](farisraihan777@gmail.com)
 - 🌐 [More Projects on GitHub](https://github.com/Farisraihan777)
 

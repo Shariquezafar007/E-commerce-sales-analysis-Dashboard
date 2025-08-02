@@ -31,6 +31,12 @@ You can directly access the dataset files here:
 - [Orders.csv](https://raw.githubusercontent.com/Farisraihan777/E-commerce-sales-analysis-Dashboard/main/Orders.csv)
 - [Details.csv](https://raw.githubusercontent.com/Farisraihan777/E-commerce-sales-analysis-Dashboard/main/Details.csv)
 
+  ## 🔗 Portfolio & Contact
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/your-link-here)
+- 📧 Email: your.email@example.com
+- 🌐 [More Projects on GitHub](https://github.com/Farisraihan777)
+
+
 ### 📸 Dashboard Snapshot
 <img width="1270" height="716" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/f283f262-2350-4b2e-be91-d6600aa7bd7c" />
 

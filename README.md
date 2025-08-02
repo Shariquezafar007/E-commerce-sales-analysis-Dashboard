@@ -32,8 +32,8 @@ You can directly access the dataset files here:
 - [Details.csv](https://raw.githubusercontent.com/Farisraihan777/E-commerce-sales-analysis-Dashboard/main/Details.csv)
 
   ## 🔗 Portfolio & Contact
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/faris-raihan-70b916329/)
-- 📧 [Email](farisraihan777@gmail.com)
+- 💼 [{LinkedIn Profile](https://wwwlinkedin.com/in/faris-raihan-70b916329/)
+- 📧 [Email:](farisraihan777@gmail.com)
 - 🌐 [More Projects on GitHub](https://github.com/Farisraihan777)
 
 

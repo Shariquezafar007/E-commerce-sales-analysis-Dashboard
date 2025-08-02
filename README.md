@@ -28,8 +28,7 @@ The objective of this project is to build an interactive Power BI dashboard that
 
 ### 📂 Dataset Source
 You can directly access the dataset files here:
-- https://raw.githubusercontent.com/Farisraihan777/E-commerce-sales-analysis-Dashboard/refs/heads/main/Orders.csv
-- [Orders.csv](https://raw.githubusercontent.com/Farisraihan777/E-commerce-sales-analysis-Dashboard/main/Orders.csv)
+https://raw.githubusercontent.com/Farisraihan777/E-commerce-sales-analysis-Dashboard/main/Orders.csv
 - [Details.csv](https://raw.githubusercontent.com/Farisraihan777/E-commerce-sales-analysis-Dashboard/main/Details.csv)
 
 ### 📸 Dashboard Snapshot

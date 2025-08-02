@@ -26,6 +26,12 @@ The objective of this project is to build an interactive Power BI dashboard that
 - State, Order Date, Category, Sub-Category, Payment Mode, Customer Name
 - Metrics: Sales Amount, Quantity, Profit, Order Value.
 
+### 📂 Dataset Source
+You can directly access the dataset files here:
+- https://raw.githubusercontent.com/Farisraihan777/E-commerce-sales-analysis-Dashboard/refs/heads/main/Orders.csv
+- [Orders.csv](https://raw.githubusercontent.com/Farisraihan777/E-commerce-sales-analysis-Dashboard/main/Orders.csv)
+- [Details.csv](https://raw.githubusercontent.com/Farisraihan777/E-commerce-sales-analysis-Dashboard/main/Details.csv)
+
 ### 📸 Dashboard Snapshot
 <img width="1270" height="716" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/f283f262-2350-4b2e-be91-d6600aa7bd7c" />
 

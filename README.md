@@ -22,27 +22,9 @@ e-commerce sales performance across various dimensions. This dashboard allows us
 - Data Transformation using Power Query
 - Measures & Calculated Columns in DAX
 
-### 📁 Dataset Info
-- The dataset includes fields like:
-- State, Order Date, Category, Sub-Category, Payment Mode, Customer Name
-- Metrics: Sales Amount, Quantity, Profit, Order Value.
-
-### 📂 Dataset Source
-You can directly access the dataset files here:
-- [Orders.csv](https://raw.githubusercontent.com/Farisraihan777/E-commerce-sales-analysis-Dashboard/main/Orders.csv)
-- [Details.csv](https://raw.githubusercontent.com/Farisraihan777/E-commerce-sales-analysis-Dashboard/main/Details.csv)
-
-  ## 🔗 Portfolio & Contact
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/faris-raihan-70b916329/)
-- 📧 [Email:](farisraihan777@gmail.com)
-- 🌐 [More Projects on GitHub](https://github.com/Farisraihan777)
-
-
 ### 📸 Dashboard Snapshot
 <img width="1270" height="716" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/f283f262-2350-4b2e-be91-d6600aa7bd7c" />
 
 
-## 🙌 Acknowledgements
-## This project was created as part of my data analyst training. Feedback and suggestions are welcome!
 
 
